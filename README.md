@@ -1,6 +1,3 @@
-# Online Ensemble Deep Gaussian Processes
-The Sequential Inference on Random Feature-Based Ensemble Gaussian Process
-
 # README
 
 The variational inference is constructed under Tensorflow 1.14.0. To save space and time, the suggestion is to prefer variational inference as the prior of online learning under high-dimensional cases.
