@@ -1,6 +1,6 @@
 # README
 
-The variational inference is constructed under Tensorflow 1.14.0. To save space and time, the suggestion is to prefer variational inference as the prior of online learning under high-dimensional cases.
+The variational inference is constructed under Tensorflow 1.14.0. To save space and time, the suggestion is to prefer variational inference as the prior of online learning under high-dimensional cases. To clarify, the "Omega" in the codes is the "v" in the paper while the "W" in the codes is the "theta" in the paper. 
 
 ## FLAGS
 
