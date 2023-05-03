@@ -4,7 +4,7 @@ The variational inference is constructed under Tensorflow 1.14.0. To save space 
 
 ## FLAGS
 
-The code implements particle filterng for Online Ensemble Deep Gaussian Processes (OEDGP) approximated using random Fourier features. The code accepts the following options:
+The code implements particle filterng for Online Ensemble of Deep Gaussian Processes (OE-DGP) approximated using random Fourier features. The code accepts the following options:
 
 
 * --nl                  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Number of layers
